@@ -7,7 +7,7 @@ about:
   head: 2bad9f6
   archived: false
   latestVersion: v0.2.1
-  collectedAt: 2026-09-04T19:19:41Z
+  collectedAt: 2026-09-04T21:16:38Z
 timeline:
   created: 2026-05-19
   lastCommit: 2026-06-21
@@ -83,5 +83,43 @@ total:
   openIssue: 3
   commit: 101
 ---
+path: /home/runner/.x-repo/github.com/emilien-jegou/oyui
+collectedAt: 2026-09-04T21:16:43Z
+loc:
+  Rust:
+    code: 11288
+    comments: 168
+    blanks: 1540
+    files: 90
+  TypeScript:
+    code: 627
+    comments: 8
+    blanks: 124
+    files: 4
+  Toml:
+    code: 288
+    comments: 4
+    blanks: 25
+    files: 9
+  Nix:
+    code: 128
+    comments: 7
+    blanks: 15
+    files: 3
+  Json:
+    code: 58
+    comments: 0
+    blanks: 3
+    files: 3
+  Markdown:
+    code: 0
+    comments: 541
+    blanks: 291
+    files: 12
+total:
+  code: 12619
+  comments: 1043
+  blanks: 2092
+  files: 121
 ---
 
