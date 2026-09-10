@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.1"
   latestRelease: "v0.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:48:50Z
+  collectedAt: 2026-09-10T22:58:40Z
 timeline:
   created: 2026-05-19
   lastCommit: 2026-06-21
@@ -86,7 +86,7 @@ total:
   commit: 101
 ---
 path: /home/runner/.x-repo/github.com/emilien-jegou/oyui
-collectedAt: 2026-09-10T20:48:53Z
+collectedAt: 2026-09-10T22:58:43Z
 loc:
   Rust:
     code: 11288
