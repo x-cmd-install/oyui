@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9131579,
       "digest": "sha256:f2709e62ea65eea6c425d50d254ded267cd0a7d6d42d34a7704bf2982c739570",
-      "download_count": 90,
+      "download_count": 91,
       "created_at": "2026-06-19T19:42:47Z",
       "updated_at": "2026-06-19T19:42:49Z",
       "browser_download_url": "https://github.com/emilien-jegou/oyui/releases/download/v0.2.1/oyui-v0.2.1-x86_64-unknown-linux-gnu.tar.gz"
