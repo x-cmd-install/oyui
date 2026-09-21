@@ -38,22 +38,22 @@ Total: **12,389** lines of code across **109** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 156 · **Forks**: 7 · **Open issues**: 9 · **Contributors**: 2
+- **Stars**: 160 · **Forks**: 7 · **Open issues**: 10 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 7 · **Open PRs**: 2 · **Closed issues**: 6 · **Open issues**: 3 · **Commits**: 101
+- **Releases**: 5 · **Merged PRs**: 7 · **Open PRs**: 2 · **Closed issues**: 6 · **Open issues**: 4 · **Commits**: 101
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-03-24 | 5 | 7 | 2 | 6 | 3 | 101 |
-| 360d | 2025-09-25 | 5 | 7 | 2 | 6 | 3 | 101 |
-| last720d | 2024-09-30 | 5 | 7 | 2 | 6 | 3 | 101 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last180d | 2026-03-25 | 5 | 7 | 2 | 6 | 4 | 101 |
+| 360d | 2025-09-26 | 5 | 7 | 2 | 6 | 4 | 101 |
+| last720d | 2024-10-01 | 5 | 7 | 2 | 6 | 4 | 101 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for oyui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:25:51Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:44:19Z._
