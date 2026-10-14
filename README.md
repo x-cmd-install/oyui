@@ -48,12 +48,12 @@ Total: **12,389** lines of code across **109** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-16 | 5 | 7 | 2 | 6 | 4 | 101 |
-| 360d | 2025-10-18 | 5 | 7 | 2 | 6 | 4 | 101 |
-| last720d | 2024-10-23 | 5 | 7 | 2 | 6 | 4 | 101 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-17 | 5 | 7 | 2 | 6 | 4 | 101 |
+| 360d | 2025-10-19 | 5 | 7 | 2 | 6 | 4 | 101 |
+| last720d | 2024-10-24 | 5 | 7 | 2 | 6 | 4 | 101 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for oyui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:24:59Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:24:34Z._
